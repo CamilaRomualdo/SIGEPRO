@@ -30,11 +30,12 @@ Neste repositório contém os seguintes documentos listados abaixo:
   - Diagrama de Implantação (.png).
 - Imagem do padrão arquitetural da aplicação (.png).
 - Documentos com Telas do protótipo (.pdf).
+- Documentos com links relevantes referentes ao projeto.
 
 #### LINKS
 
-- Prototipo Navegável da aplicaçõa no figma: https://vimeo.com/700082767
-- Vídeo de apresentação do Prototipo Navegável da aplicação no vimeo: https://vimeo.com/700082767
+- Prototipo Navegável da aplicaçõa no figma: [Aqui!](https://www.figma.com/proto/T46lmjgRZIeeJ9ZcEZ7Ho3/SIGEPRO?node-id=102%3A13&scaling=contain&page-id=101%3A2&starting-point-node-id=102%3A13&show-proto-sidebar=1)!
+- Vídeo de apresentação do Prototipo Navegável da aplicação no vimeo: [Aqui!](https://vimeo.com/700154211)!
 
 #### AUTOR
 
